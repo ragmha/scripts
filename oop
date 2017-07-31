@@ -1,0 +1,4 @@
+#!/bin/bash
+# A bash script determining how many pages are in a folder of Open Office documents
+
+echo "$(exiftool *.odt | grep Page-count | cut -d ":" -f2 | tr '\n' '+')""0" | bc
