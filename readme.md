@@ -12,6 +12,8 @@
 
 * [⚓️ anchor](./anchor.js) - Creates anchor for markdown
 
+* [🕵️ detect-es6](./detect-es6.js) - Detects if host environment supports ES6
+
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
