@@ -24,7 +24,7 @@
 
 * [Array 👉  #](./arrayToHash.js) - Creates a hashtable from an array of objects
 
-
+* [🔨 createS3Link](./createS3Link.js) - Creates a link to an object stored in s3 amazon service
 
 
 ## License
