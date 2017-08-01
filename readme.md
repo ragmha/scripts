@@ -16,6 +16,12 @@
 
 * [🕵️ detect-es6](./detect-es6.js) - Detects if host environment supports ES6
 
+* [🎩 ae](./ae.js) - addEventListener wrapper
+
+* [💁🏼 delegate](./delegate.js) - Attach a handler to an event for all elements matching a selector
+
+* [🙅 escapeForHtml](./escapeForHtml.js) - Encode characters with entity codes
+
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
