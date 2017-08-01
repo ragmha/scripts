@@ -22,6 +22,10 @@
 
 * [🙅 escapeForHtml](./escapeForHtml.js) - Encode characters with entity codes
 
+* [Array 👉  #](./arrayToHash.js) - Creates a hashtable from an array of objects
+
+
+
 
 ## License
 [MIT](./license) © [Raghib Hasan](http://raghibm.com/)
