@@ -12,6 +12,8 @@
 
 * [⚓️ anchor](./anchor.js) - Creates anchor for markdown
 
+* [👆 qs ](./qs.js) - QuerySelector wrapper
+
 * [🕵️ detect-es6](./detect-es6.js) - Detects if host environment supports ES6
 
 
