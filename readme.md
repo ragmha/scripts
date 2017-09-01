@@ -8,6 +8,8 @@
 
 ## JavaScript
 
+* [💲 bling](./bling.js) - $ of jQuery without jQuery
+
 * [📹 video](./video.js) - Download Videos
 
 * [⚓️ anchor](./anchor.js) - Creates anchor for markdown
